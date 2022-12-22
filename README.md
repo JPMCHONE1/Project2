@@ -1,5 +1,6 @@
 ###### Project2
 
+# When running this please run WH + ISO first
 # We decided to focus on the World Happiness Report (WHR) & collect data points that would be of interest to review. Typically this is aggregated by country. 
 
 # The WHR was downloaded from https://worldhappiness.report/ed/2021/ as a CSV which we converted into a data frame. 
@@ -28,4 +29,4 @@
 
 # When this was complete we created a database that had 3 tables created from these dataframes with a primary key of country in the join table & as a foreign key in the other tables. 
 
-##Thank You!
+## Thank You!
